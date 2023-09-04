@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-news-homepage/static/css/main.bdf897a1.css",
+    "main.js": "/react-news-homepage/static/js/main.06af1508.js",
+    "index.html": "/react-news-homepage/index.html",
+    "main.bdf897a1.css.map": "/react-news-homepage/static/css/main.bdf897a1.css.map",
+    "main.06af1508.js.map": "/react-news-homepage/static/js/main.06af1508.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdf897a1.css",
+    "static/js/main.06af1508.js"
+  ]
+}
